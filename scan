@@ -1,4 +1,4 @@
-from socket import * 
+ import 
 
 if __name__ == '__main__':
     target = raw_input('Enter host to scan: ')
